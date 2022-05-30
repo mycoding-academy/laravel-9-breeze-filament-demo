@@ -1,4 +1,4 @@
-[![tests](https://github.com/mycoding-academy/laravel-9-breeze-filament-demo/actions/workflows/run_tests.yml/badge.svg)](https://github.com/mycoding-academy/laravel-9-breeze-filament-demo/actions/workflows/run_tests.yml)
+[![tests](https://github.com/mycoding-academy/laravel-9-breeze-filament-demo/actions/workflows/run_tests.yml/badge.svg?branch=main)](https://github.com/mycoding-academy/laravel-9-breeze-filament-demo/actions/workflows/run_tests.yml)
 
 ## About this application
 This is a demo application based on Laravel/Breeze and Filament package.
