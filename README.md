@@ -5,6 +5,10 @@ This is a demo application based on Laravel/Breeze and Filament package.
 - Split user 's name into first and last name
 - Override make:filament-user artisan command to support adding first name and last name.
 
+## Packages mainly used in this application
+- Laravel breeze
+- Filament admin panel
+- Spatie's Laravel permission
 
 ## Security Vulnerabilities
 
