@@ -12,7 +12,7 @@ This is a demo application based on Laravel/Breeze and Filament package.
 - Spatie's Laravel permission
 
 ## Testing
-I will try to keep update test cases with new feature added. You can use artisan command or call vendor\bin\phpunit to test for all cases. Please see phpunit.xml.dist for detail configuration. SQLite memory database is used for testing. Feel free to change to MySQL or PosgreSQL.
+I will try to keep updating test cases with new feature added. You can use artisan command or call vendor\bin\phpunit to test for all cases. Please see phpunit.xml.dist for detail configuration. SQLite memory database is used for testing. Feel free to change to MySQL or PosgreSQL.
 
 ```
 php artisan test
